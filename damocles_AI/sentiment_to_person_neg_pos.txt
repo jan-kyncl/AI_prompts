@@ -1,0 +1,7 @@
+"Působ jako nezaujatý mediální analytik. Analyzuj přiložený přepis reportáže se zaměřením na osobu: [Jméno politika].
+
+    Celkové vyznění: Působí reportáž pro tuto osobu pozitivně, negativně, nebo neutrálně?
+    Analýza jazyka: Jaká konkrétní slovesa a přídavná jména jsou s touto osobou spojována? (Např. 'pochybil', 'prosadil', 'přiznal').
+    Role v příběhu: Je politik vykreslen jako 'řešitel problému' (aktivní/pozitivní), nebo jako 'příčina problému' (pasivní/negativní)?
+    Prostor pro vyjádření: Dostal politik v reportáži férový prostor pro svou reakci, nebo je o něm mluveno pouze 'o nás bez nás'?
+    Verdikt: Ohodnoť vliv reportáže na image politika na škále 1 (nepřátelské/poškozující) až 10 (oslavné/podporující)."
